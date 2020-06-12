@@ -51,7 +51,7 @@ setup(
         'setproctitle>=1.1.10',
         'requests>=2.18.4',
         'humanfriendly>=4.4.1',
-        'parsedatetime>=2.4',
+        'parsedatetime<=2.4',
         'PTable>=0.9.2',
         'setuptools>=30',
     ],
